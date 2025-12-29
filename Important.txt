@@ -1,0 +1,10 @@
+README.txt file will go over some issues that should be aware of.
+
+It is noted that the jdk and javafx library used for the code will not be included within the project. hence why it is 
+recommended to download the javafx library for the operating system to which you intend to test the project. Furthermore, 
+it is noted that depending on which jdk version, compatibility issues may arise when running the project. So it is 
+recommended through trial and error to find a valid jdk which works on said netbeans version on the os system the project 
+will be executed on.
+
+However, there should be no concerns for the demo, since the project being shown in the demo has the proper libraries and 
+compatible jdk to demo said project. For any further questions can be asked through email or during the demo.
