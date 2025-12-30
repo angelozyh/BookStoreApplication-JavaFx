@@ -6,4 +6,7 @@ The project was developed in the IDE NetBeans with Java and JavaFX. It is noted 
 Depending on the version of NetBeans used. Process models were used for organized development with the use of the State design 
 pattern for efficient code.
 
-![forgithub-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6f3db68f-ecf8-4050-bf6c-8a2b350fba25)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f3db68f-ecf8-4050-bf6c-8a2b350fba25"
+       alt="Website demo GIF">
+</p>
